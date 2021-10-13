@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259538282616",
+    "project_id": "frinstaffprofile",
+    "storage_bucket": "frinstaffprofile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259538282616:android:d4e01d1e45201de277258d",
+        "android_client_info": {
+          "package_name": "com.frinict.frin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259538282616-fcedgja1r00plsoeooah1frh9o8gmtmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnbJDqlTVy724Nnrharwm1ztUpofz3Kww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259538282616-fcedgja1r00plsoeooah1frh9o8gmtmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
